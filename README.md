@@ -5,7 +5,8 @@ Here you'll find a variety of projects showcasing my journey in AI and ML. From 
 
 ---
 
-### 🌱 What I'm learning/exploring:
+## 🌱 What I'm learning/exploring:
+
 🤖 Artificial Intelligence.
 🧠 Machine and Deep Learning.
 🍏 Cooking
